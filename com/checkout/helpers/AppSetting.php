@@ -33,7 +33,7 @@ namespace com\checkout\helpers
 		}
 
 
-		protected function __construct()
+		public function __construct()
 		{
             if(isset($_SERVER) && isset($_SERVER['HTTP_USER_AGENT'])) {
                 $this->setClientUserAgentName($_SERVER['HTTP_USER_AGENT']);

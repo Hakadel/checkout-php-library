@@ -1,5 +1,5 @@
 {
-    "name": "checkout/checkout-php-api",
+    "name": "hakadel/checkout-php-api",
     "description": "Checkout PHP API Library",
     "homepage": "https://github.com/CKOTech/checkout-php-library",
     "version": "1.2.6",
